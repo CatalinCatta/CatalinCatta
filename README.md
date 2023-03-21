@@ -37,6 +37,12 @@ Passionate beginner developer with a love for game development and a broad range
 
 
 
+<img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/docker.png" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/heroku.png" height="auto" width="40">
+
+
+
 <img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/gitBash.png" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/gitHub.png" height="auto" width="40">
@@ -59,10 +65,11 @@ Passionate beginner developer with a love for game development and a broad range
 
 ### :nerd_face: I'm currently learning:
 
-- Java
+- Java and Spring
 
 ### :thinking: I want to learn:
 
+- Firebase Unity SDK
 - Unreal Engine
 - TypeScript
 - C++
