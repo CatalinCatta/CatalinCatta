@@ -9,6 +9,10 @@ Passionate beginner developer with a love for game development and a broad range
 
 <img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/js.png" height="auto" width="40">
 
+<img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/ts.png" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/java.png" height="auto" width="40">
+
 <img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/cSharp.png" height="auto" width="40">
 
 
@@ -33,6 +37,8 @@ Passionate beginner developer with a love for game development and a broad range
 
 <img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/netCore.png" height="auto" width="40">
 
+<img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/spring.png" height="auto" width="40">
+
 <img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/react.png" height="auto" width="40">
 
 
@@ -53,6 +59,10 @@ Passionate beginner developer with a love for game development and a broad range
 
 <img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/rider.png" height="auto" width="40">
 
+<img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/ij.png" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/ws.png" height="auto" width="40">
+
 <img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/vs.png" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/CatalinCatta/CatalinCatta/main/assets/vsc.png" height="auto" width="40">
@@ -60,18 +70,19 @@ Passionate beginner developer with a love for game development and a broad range
 
 ### :technologist: I'm currently working on:
 
-- My ASP.NET Core, React and Unity skills
+- My ASP.NET Core, Spring Boot, React and Unity skills
 - My game developer website 
 
 ### :nerd_face: I'm currently learning:
 
 - Java and Spring
+- TypeScript
+- Hibernate
 
 ### :thinking: I want to learn:
 
 - Firebase Unity SDK
 - Unreal Engine
-- TypeScript
 - C++
 - PHP
 - Lua
