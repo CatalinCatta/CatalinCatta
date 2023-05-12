@@ -71,17 +71,14 @@ Passionate beginner developer with a love for game development and a broad range
 ### :technologist: I'm currently working on:
 
 - My ASP.NET Core, Spring Boot, React and Unity skills
-- My game developer website 
+- My multi cross-platform game Sideralis :))
 
 ### :nerd_face: I'm currently learning:
 
-- Java and Spring
-- TypeScript
-- Hibernate
+- Firebase Unity SDK
 
 ### :thinking: I want to learn:
 
-- Firebase Unity SDK
 - Unreal Engine
 - C++
 - PHP
